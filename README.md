@@ -1,1 +1,3 @@
-# Lab 7 - Starter
+# Lab 7
+
+Names: Jiawen Wang, Anya Chernova
